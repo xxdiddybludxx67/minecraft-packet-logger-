@@ -1,0 +1,14 @@
+[{
+  "modid": "packetlogger",
+  "name": "PacketLogger",
+  "description": "Logs all 1.8.9 packets to JSONL. Toggle with &packetlogger start/stop.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["xxdiddyblud"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}]
