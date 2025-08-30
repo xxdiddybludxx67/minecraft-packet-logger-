@@ -28,8 +28,7 @@ repositories {
     mavenCentral()
 }
 
-dependencies {
-    // Gson is already on the MC classpath; no extra deps needed.
+dependencies {.
 }
 
 processResources {
@@ -49,3 +48,4 @@ task wrapper(type: Wrapper) {
     gradleVersion = '2.7'
     distributionUrl = "https://services.gradle.org/distributions/gradle-${gradleVersion}-bin.zip"
 }
+
